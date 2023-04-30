@@ -22,6 +22,7 @@ body {
     user-select: none;
     cursor: pointer;
     font-size: 6vw;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .item[data-data-index="0"] {
