@@ -3,24 +3,24 @@ const cacheName = "mathBoy-v1";
 
 let appShellFiles = [
     // html
-    '/',
-    '/index.html',
+    '/math-boy/',
+    '/math-boy/index.html',
 
     // css'
-    '/styles/style.css',
-    "/styles/fonts.css",
+    '/math-boy/styles/style.css',
+    "/math-boy/styles/fonts.css",
 
 
     // JS codes
-    '/main.js',
-    '/init-sw.js',
+    '/math-boy/main.js',
+    '/math-boy/init-sw.js',
 
     // images
-    '/favicon.png',
+    '/math-boy/favicon.png',
 
     // fonts
-    '/fonts/arvo-v20-latin-regular.woff2',
-    '/fonts/arvo-v20-latin-700.woff2',
+    '/math-boy/fonts/arvo-v20-latin-regular.woff2',
+    '/math-boy/fonts/arvo-v20-latin-700.woff2',
 
 ]
 
