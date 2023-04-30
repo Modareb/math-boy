@@ -1,5 +1,5 @@
 
-const cacheName = "mathBoy-v1";
+const cacheName = "mathBoy-v1.1.0";
 
 let appShellFiles = [
     // html
