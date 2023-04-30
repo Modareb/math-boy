@@ -1,0 +1,14 @@
+{
+    "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "favicon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "name": "Math Boy",
+    "short_name": "MathBoy",
+    "start_url": "/"
+  }
